@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+h2 {
+  color: rgb(221, 86, 66);
+  text-align: start;
+  /* opacity: 70%; */
+}
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+  border: 2px solid black;
+  text-align: center;
+  width: 50%;
+  /* height: 400px; */
+}
+th {
+  color: rgb(219, 97, 70);
+  border: 3px solid black;
+  padding: 10px;
+}
+tr {
+  color: black(219, 97, 70);
+  border: 3px solid black;
+}
+td {
+  color: black(219, 97, 70);
+  border: 3px solid black;
+}
